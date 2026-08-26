@@ -35,7 +35,7 @@ The project combines multiple AI/data analysis pipelines:
 ├── Video_emo.ipynb               # Video pose and emotion analysis notebook
 ├── MPD_Analysis.ipynb            # Crime/public safety data analysis notebook
 ├── requirements.txt              # Python dependencies
-├── .gitignore                    # Files/folders Git should ignore
+├── .gitignore                    # Files
 └── README.md                     # Project documentation
 ```
 
