@@ -1,5 +1,5 @@
 import os
-os.environ["HUGGINGFACE_HUB_CACHE"] = r"C:\Users\shrey\hf_cache"
+os.environ["HUGGINGFACE_HUB_CACHE"] = 
 os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "1"
 
 import json
