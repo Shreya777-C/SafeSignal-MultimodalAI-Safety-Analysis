@@ -87,7 +87,7 @@ def ensure_ffmpeg_available() -> None:
 def ensure_ollama_available() -> None:
     try:
         subprocess.run(
-            [r"C:\Users\shrey\AppData\Local\Programs\Ollama\ollama.exe", "--version"],
+            [r, "--version"],
             stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True,
         )
     except Exception as e:
